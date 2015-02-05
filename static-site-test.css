@@ -1,2 +1,2 @@
 h1{color: #ff0000;}
-div{display: inline;}
+.header{display: inline-block; width 25%; height: 100px; background-color: #B0C4DE;}
