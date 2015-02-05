@@ -1,2 +1,13 @@
-h1{color: #ff0000;}
-.header{display: inline-block; width 25%; height: 100px; background-color: #B0C4DE;}
+body{border: 1px solid black;}
+.header{
+  display: inline-block;
+  border: 1px solid black;
+  background-color: #B0C4DE;
+  text-align: center;
+  width: 25%; height: 100px;
+}
+h1{width: 150px; height: 30px;}
+p{width: 150px; height: 30px; color: #2F4F4F;margin-top: 30px;}
+#header-subtitle{
+  position: static; float: right;
+}
