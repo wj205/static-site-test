@@ -2,7 +2,7 @@
 .header{
   display: inline-block;
   text-align: center;
-  width: 25%;
+  width: 150px;
 }
 h1{width: 150px; height: 30px;}
 p{width: 150px; height: 30px; color: #2F4F4F;margin-top: 30px;}
