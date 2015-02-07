@@ -1,3 +1,5 @@
+*{margin:0;padding:0;}
+html, body{height:100%; min-height: 100%; width:100%}
 /*HEADING SECTION*/
 /*TITLE/SUBTITLE*/
   .heading{background: #FF6464; height: 100px; border-bottom: 2px solid #2F4F4F;}
@@ -18,4 +20,6 @@
   .feature-photo-topright{padding: 10px 10px 5px 5px;}
   .feature-photo-bottomleft{padding: 5px 5px 10px 5px;}
   .feature-photo-bottomright{padding: 5px 10px 10px 5px;}
+
+.everything{background-color: #567DBF; height: 100%}
 
