@@ -1,6 +1,6 @@
 /*HEADING SECTION*/
   .heading{background: #FF6464; height: 100px; border-bottom: 2px solid #2F4F4F;}
-  h1{border: 1px solid red; font-size: 50px; font-family: Arial, sans-serif; float: left;margin-top: 25px;margin-bottom=0;}
+  h1{border: 1px solid red; font-size: 50px; font-family: Arial, sans-serif; float: left;margin-top: 20px;margin-left: 10%;}
   p{border: 1px solid red; font-size: 25px; font-family: Arial, sans-serif;float: right; opacity: 0.6;margin: 38px 5% 0 0;}
   a{text-decoration: none;color: #5F62C6;}
   .red{color: #1A1EB2;}
