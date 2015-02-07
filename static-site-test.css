@@ -1,5 +1,6 @@
 *{margin:0;padding:0;}
-html, body{height:100%; min-height: 100%; width:100%; min-width: 1280px}
+html, body{height:100%; min-height: 100%; width:100%; min-width: 1280px;}
+body{background-color: #567DBF;}
 /*HEADING SECTION*/
 /*TITLE/SUBTITLE*/
   .heading{background: #FF6464; height: 100px; border-bottom: 2px solid #2F4F4F;}
@@ -21,5 +22,4 @@ html, body{height:100%; min-height: 100%; width:100%; min-width: 1280px}
   .feature-photo-bottomcenter{margin: -249px 5px 10px 5px;}
   .feature-photo-bottombanner{margin-top: 5px;}
 
-.everything{background-color: #567DBF; height: 100%}
 
