@@ -6,7 +6,7 @@
   .red{color: #1A1EB2;}
 
 /* FEATURE PHOTO SECTION*/
-  .feature{margin: 0 auto; width: 99.9%;}
+  .feature{margin: 0 auto; width: 99%;}
   .feature > div{float: left;}
   .feature-photo-big{padding: 10px;}
   #korver-big{height: 460px; width: 600px;}
